@@ -15,3 +15,8 @@ exercism-sqlite/
 ├── wordy/              # Text-based math expression evaluator
 ├── README.md           # Master repository documentation
 └── ...
+```
+## 🛠️ Environment & Tools
+- Database Engine: SQLite 3 (utilizing advanced JSON and window functions)
+- Testing Methodology: Exercism SQLite test runners and custom assertion setups
+- Version Control: Git & GitHub
