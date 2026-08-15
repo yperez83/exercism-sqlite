@@ -11,6 +11,7 @@ Each exercise is organized in its own directory containing the solution script, 
 ```text
 exercism-sqlite/
 ├── etl/                # ETL pipeline exercise (JSON parsing & transformation)
+├── sublist/            # Determining relational status between given lists
 ├── wordy/              # Text-based math expression evaluator
 ├── README.md           # Master repository documentation
 └── ...
