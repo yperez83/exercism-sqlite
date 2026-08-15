@@ -1,9 +1,5 @@
 ---
 
-### 2. `evaluation.md`
-
-Since you use this file to prove the tests passed, formatting it as a markdown table makes it look like a proper continuous integration (CI) test report. You can use this template to record your victory:
-
 ```markdown
 # Evaluation Report
 
